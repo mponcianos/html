@@ -1,0 +1,35 @@
+/* FOLHA DE ESTILOS */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+     background-color: #eeeeee
+}
+
+
+header {
+	background-color: lightblue;
+	height: 100px;
+}
+
+#div_central {
+	background-color: #d5c9ce;
+	min-height: 100px;
+	width: 100%;
+	float: left;
+	
+}
+
+footer {
+	clear: both;
+	background-color: lightgreen;
+	height: 40px;	
+}
+
+.container {
+	width: 960px;
+	margin: auto;
+}
